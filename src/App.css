@@ -1,0 +1,27 @@
+
+*{
+  box-sizing: border-box;
+}
+.todo-app-title {
+  text-align: center;
+}
+.App {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  flex-direction: row;
+  border: 1px solid #000;
+}
+
+.App button {
+  margin-left: 20px;
+  padding: 4px;
+}
+
+
+
+
+
+

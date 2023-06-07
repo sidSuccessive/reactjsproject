@@ -1,0 +1,26 @@
+/* The Modal (background) */
+
+  
+  /* Modal Content */
+  .modal-content {
+    position: fixed;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    z-index: 100;
+    overflow: hidden;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+  }
+
+  .modal-content h3,form {
+    text-align: center;
+  }
+
+  .modal-content form button,select {
+    padding: 10px;
+    margin: auto 10px;
+  }
+  

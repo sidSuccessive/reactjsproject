@@ -1,0 +1,10 @@
+.todo-card {
+    width: 100%;
+    padding: 1rem 2rem;
+    background: #efe;
+    border: 1px solid #e2ce;
+}
+
+.todo-card h2 {
+    text-align: center;
+}
